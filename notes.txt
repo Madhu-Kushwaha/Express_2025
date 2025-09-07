@@ -1,0 +1,12 @@
+Express.js is a web application framework or node.js .It simplifies building web servers and APIs in node
+
+
+Routing
+Middleware
+Tempelate Engines
+Rest Api Support
+Easy to use
+Fast and Lightweight
+
+
+if type will be common then by default wo vanilla.js wala import export use kr rha
