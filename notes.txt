@@ -10,3 +10,37 @@ Fast and Lightweight
 
 
 if type will be common then by default wo vanilla.js wala import export use kr rha
+
+
+What is tempelate Engines??
+
+craete dynamic web pages by merging HTML 
+tempelates with data from the servers
+
+Top Tempelate Engines
+
+EJS(Embedded Javascript)
+Pug(Formely jade)
+Handlebars
+
+
+What is MVC Architecture??
+
+
+Models : Represent your data in your code
+
+Work with your data(e.g. save,fetch)
+
+
+Views : 
+
+What the users sees
+Deoccupied from your application code 
+
+
+Controllers
+connecting your models and your views
+
+
+complete flow
+user -> uses -> controller -> manipulates -> model-> updates-> view-> sees
